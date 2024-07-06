@@ -19,6 +19,6 @@ Transformation between Cart -> Offer -> Reservation
 * Deal with unknown, PaymentGateway with Spy implementation
 
 ## Files
-* [src/test/java/pl/jkanclerz/ecommerce/sales/reservation/OfferAcceptanceTest.java](../src/test/java/pl/jkanclerz/ecommerce/sales/reservation/OfferAcceptanceTest.java)
-* [src/test/java/pl/jkanclerz/ecommerce/sales/reservation/SpyPaymentGateway.java](../src/test/java/pl/jkanclerz/ecommerce/sales/reservation/SpyPaymentGateway.java)
+* [src/test/java/pl/jkanclerz/ecommerce/sales/reservation/OfferAcceptanceTest.java](../src/test/java/pl/tnykiel/ecommerce/sales/reservation/OfferAcceptanceTest.java)
+* [src/test/java/pl/jkanclerz/ecommerce/sales/reservation/SpyPaymentGateway.java](../src/test/java/pl/tnykiel/ecommerce/sales/reservation/SpyPaymentGateway.java)
 

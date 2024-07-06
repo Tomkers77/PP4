@@ -17,6 +17,6 @@ Design & verify cart behaviours
 
 
 ## Files
-* [src/test/java/pl/jkanclerz/ecommerce/payu/PayUTest.java](../src/test/java/pl/jkanclerz/ecommerce/payu/PayUTest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/payu/PayU.java](../src/main/java/pl/jkanclerz/ecommerce/payu/PayU.java)
-* [src/main/java/pl/jkanclerz/ecommerce/payu/PayUCredentials.java](../src/main/java/pl/jkanclerz/ecommerce/payu/PayUCredentials.java)
+* [src/test/java/pl/jkanclerz/ecommerce/payu/PayUTest.java](../src/test/java/pl/tnykiel/ecommerce/payu/PayUTest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/payu/PayU.java](../src/main/java/pl/tnykiel/ecommerce/payu/PayU.java)
+* [src/main/java/pl/jkanclerz/ecommerce/payu/PayUCredentials.java](../src/main/java/pl/tnykiel/ecommerce/payu/PayUCredentials.java)

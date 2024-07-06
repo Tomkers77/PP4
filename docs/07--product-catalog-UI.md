@@ -20,8 +20,8 @@ Check if application works as expected by simulating real-world user scenarios
 
 [HTTP Status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
-`pl.jkanclerz.ecommerce.HomepageHttpTest`
-`pl.jkanclerz.ecommerce.catalog.CatalogHttpTest`
+`pl.tnykiel.ecommerce.HomepageHttpTest`
+`pl.tnykiel.ecommerce.catalog.CatalogHttpTest`
 
 ### E2E tests VS Integration tests VS Unit tests
 
@@ -32,6 +32,6 @@ Check if application works as expected by simulating real-world user scenarios
 
 ## Files
 * [pom.xml](../pom.xml)
-* [src/test/java/pl/jkanclerz/ecommerce/HomepageHttpTest.java](../src/test/java/pl/jkanclerz/ecommerce/HomepageHttpTest.java)
-* [src/test/java/pl/jkanclerz/ecommerce/catalog/CatalogHttpTest.java](../src/test/java/pl/jkanclerz/ecommerce/catalog/CatalogHttpTest.java)
+* [src/test/java/pl/jkanclerz/ecommerce/HomepageHttpTest.java](../src/test/java/pl/tnykiel/ecommerce/HomepageHttpTest.java)
+* [src/test/java/pl/jkanclerz/ecommerce/catalog/CatalogHttpTest.java](../src/test/java/pl/tnykiel/ecommerce/catalog/CatalogHttpTest.java)
 

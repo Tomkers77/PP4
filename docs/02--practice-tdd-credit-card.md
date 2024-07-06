@@ -32,6 +32,6 @@ https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA
 * Smart code completion -> ``Ctrl + Shift + Space``
 
 ## Files
-* [src/test/java/pl/jkanclerz/creditcard/NumberRepresentationTest.java](../src/test/java/pl/jkanclerz/creditcard/NumberRepresentationTest.java)
-* [src/test/java/pl/jkanclerz/creditcard/CreditCardTest.java](../src/test/java/pl/jkanclerz/creditcard/CreditCardTest.java)
-* [src/main/java/pl/jkanclerz/creditcard/](../src/test/java/pl/jkanclerz/creditcard/)
+* [src/test/java/pl/jkanclerz/creditcard/NumberRepresentationTest.java](../src/test/java/pl/tnykiel/creditcard/NumberRepresentationTest.java)
+* [src/test/java/pl/jkanclerz/creditcard/CreditCardTest.java](../src/test/java/pl/tnykiel/creditcard/CreditCardTest.java)
+* [src/main/java/pl/jkanclerz/creditcard/](../src/test/java/pl/tnykiel/creditcard/)

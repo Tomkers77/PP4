@@ -23,6 +23,6 @@ The Arrange-Act-Assert (AAA) framework is a structured approach to writing unit 
 ## Examples
 
 * Main method testing 
-[src/main/java/pl/jkanclerz/hello/App.java](../src/main/java/pl/jkanclerz/hello/App.java)
+[src/main/java/pl/jkanclerz/hello/App.java](../src/main/java/pl/tnykiel/hello/App.java)
 * TDD
-[src/test/java/pl/jkanclerz/hello/HelloTest.java](../src/test/java/pl/jkanclerz/hello/HelloTest.java)
+[src/test/java/pl/jkanclerz/hello/HelloTest.java](../src/test/java/pl/tnykiel/hello/HelloTest.java)

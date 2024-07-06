@@ -21,7 +21,7 @@ In order to store, load, sort, and manage data effectively, lets introduce datab
 
 Ensures our code speaks SQL 
 
-`pl.jkanclerz.ecommerce.playground.SqlTest` 
+`pl.tnykiel.ecommerce.playground.SqlTest` 
 
 ### Integration tests VS Unit tests
 
@@ -45,5 +45,5 @@ Ensures our code speaks SQL
 ## Files
 * [pom.xml](../pom.xml)
 * [src/main/resources/application.yaml](../src/main/resources/application.yaml)
-* [src/test/java/pl/jkanclerz/ecommerce/playground/SqlTest.java](../src/test/java/pl/jkanclerz/ecommerce/playground/SqlTest.java)
+* [src/test/java/pl/jkanclerz/ecommerce/playground/SqlTest.java](../src/test/java/pl/tnykiel/ecommerce/playground/SqlTest.java)
 

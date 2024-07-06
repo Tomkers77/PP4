@@ -47,15 +47,15 @@ Check if application works as expected by simulating real-world user scenarios
 * assign selection to variable ``Ctrl + Alt + v``
 
 ## Files
-* [src/test/java/pl/jkanclerz/ecommerce/sales/SalesTest.java](../src/test/java/pl/jkanclerz/ecommerce/sales/SalesTest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/SalesFacade.java](../src/main/java/pl/jkanclerz/ecommerce/sales/SalesFacade.java)
+* [src/test/java/pl/jkanclerz/ecommerce/sales/SalesTest.java](../src/test/java/pl/tnykiel/ecommerce/sales/SalesTest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/SalesFacade.java](../src/main/java/pl/tnykiel/ecommerce/sales/SalesFacade.java)
 
-* [src/test/java/pl/jkanclerz/ecommerce/sales/SalesHttpTest.java](../src/test/java/pl/jkanclerz/ecommerce/sales/SalesHttpTest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/SalesController.java](../src/main/java/pl/jkanclerz/ecommerce/sales/SalesController.java)
+* [src/test/java/pl/jkanclerz/ecommerce/sales/SalesHttpTest.java](../src/test/java/pl/tnykiel/ecommerce/sales/SalesHttpTest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/SalesController.java](../src/main/java/pl/tnykiel/ecommerce/sales/SalesController.java)
 
-* [src/main/java/pl/jkanclerz/ecommerce/App.java](../src/main/java/pl/jkanclerz/ecommerce/App.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/AcceptOfferRequest.java](../src/main/java/pl/jkanclerz/ecommerce/sales/AcceptOfferRequest.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/Offer.java](../src/main/java/pl/jkanclerz/ecommerce/sales/Offer.java)
-* [src/main/java/pl/jkanclerz/ecommerce/sales/ReservationDetails.java](../src/main/java/pl/jkanclerz/ecommerce/sales/ReservationDetails.java)
+* [src/main/java/pl/jkanclerz/ecommerce/App.java](../src/main/java/pl/tnykiel/ecommerce/App.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/AcceptOfferRequest.java](../src/main/java/pl/tnykiel/ecommerce/sales/AcceptOfferRequest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/Offer.java](../src/main/java/pl/tnykiel/ecommerce/sales/Offer.java)
+* [src/main/java/pl/jkanclerz/ecommerce/sales/ReservationDetails.java](../src/main/java/pl/tnykiel/ecommerce/sales/ReservationDetails.java)
 
 

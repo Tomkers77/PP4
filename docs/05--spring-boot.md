@@ -20,12 +20,12 @@ https://spring.io/quickstart
 
 Ensures our code works well with the part of external environment eg: `Spring Boot Framework`
 
-`pl.jkanclerz.ecommerce.AppTest` 
+`pl.tnykiel.ecommerce.AppTest` 
 
 
 ## Files
 * [pom.xml](../pom.xml)
-* [src/main/java/pl/jkanclerz/ecommerce/App.java](../src/main/java/pl/jkanclerz/ecommerce/App.java)
+* [src/main/java/pl/jkanclerz/ecommerce/App.java](../src/main/java/pl/tnykiel/ecommerce/App.java)
 * [src/main/resources/static](../src/main/resources/static)
-* [src/main/java/pl/jkanclerz/ecommerce/catalog/ProductCatalogController.java](../src/main/java/pl/jkanclerz/ecommerce/catalog/ProductCatalogController.java)
-* [src/test/java/pl/jkanclerz/ecommerce/AppTest.java](../src/test/java/pl/jkanclerz/ecommerce/AppTest.java)
+* [src/main/java/pl/jkanclerz/ecommerce/catalog/ProductCatalogController.java](../src/main/java/pl/tnykiel/ecommerce/catalog/ProductCatalogController.java)
+* [src/test/java/pl/jkanclerz/ecommerce/AppTest.java](../src/test/java/pl/tnykiel/ecommerce/AppTest.java)

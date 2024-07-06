@@ -19,11 +19,11 @@ that direction
 * Refactor > Extract interface
 
 ## Files
-* [src/main/java/pl/jkanclerz/ecommerce/catalog](../src/test/java/pl/jkanclerz/ecommerce/catalog)
-* [src/main/java/pl/jkanclerz/ecommerce/catalog/ArrayListProductStorage.java](../src/main/java/pl/jkanclerz/ecommerce/catalog/ArrayListProductStorage.java)
-* [src/main/java/pl/jkanclerz/ecommerce/catalog/ProductStorage.java](../src/main/java/pl/jkanclerz/ecommerce/catalog/ProductStorage.java)
+* [src/main/java/pl/jkanclerz/ecommerce/catalog](../src/test/java/pl/tnykiel/ecommerce/catalog)
+* [src/main/java/pl/jkanclerz/ecommerce/catalog/ArrayListProductStorage.java](../src/main/java/pl/tnykiel/ecommerce/catalog/ArrayListProductStorage.java)
+* [src/main/java/pl/jkanclerz/ecommerce/catalog/ProductStorage.java](../src/main/java/pl/tnykiel/ecommerce/catalog/ProductStorage.java)
 
-* [src/test/java/pl/jkanclerz/ecommerce/catalog/HashMapProductStorageTest.java](../src/test/java/pl/jkanclerz/ecommerce/catalog/HashMapProductStorageTest.java)
+* [src/test/java/pl/jkanclerz/ecommerce/catalog/HashMapProductStorageTest.java](../src/test/java/pl/tnykiel/ecommerce/catalog/HashMapProductStorageTest.java)
 
 
 ## Dictionary
